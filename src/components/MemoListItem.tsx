@@ -5,7 +5,7 @@ const MemoListItem = (): JSX.Element => {
     <View style={styles.memoListItem}>
       <View>
         <Text style={styles.memoListItemTitle}>Shopping List</Text>
-        <Text style={styles.memoListItemDate}>1st Oct,2025 10:00</Text>
+        <Text style={styles.memoListItemDate}>1st Oct 2025 10:00</Text>
       </View>
       <View>
         <Text>X</Text>
